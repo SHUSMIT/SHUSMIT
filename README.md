@@ -43,18 +43,6 @@ class ShusmitSarkar:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHUSMIT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&card_width=495"/>
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHUSMIT&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Contribution Stats" />
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
