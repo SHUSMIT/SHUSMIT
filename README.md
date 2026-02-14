@@ -46,12 +46,11 @@ class ShusmitSarkar:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHUSMIT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUSMIT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUSMIT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&card_width=495"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUSMIT&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=SHUSMIT&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Contribution Stats" />
 </div>
 
 ---
@@ -106,22 +105,18 @@ class ShusmitSarkar:
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<details>
+<summary><b>🏥 Multimodal Healthcare RAG System</b></summary>
 
-<table>
-<tr>
-<td align="center" width="100%">
+**📌 Highlights:**
+- 62% hallucination reduction with sub-450ms inference
+- Microservices architecture with Docker
+- WebSocket biometrics and AWS deployment
+- Real-time patient interaction with medical knowledge retrieval
 
-### 🏥 Multimodal Healthcare RAG System
+**🔧 Stack:** Python • Qdrant • React • TypeScript • Docker • AWS
 
-**🎯 Impact:** 62% hallucination reduction | <450ms inference | Real-time patient interaction  
-**🔧 Tech:** Python • Qdrant • React • TypeScript • Docker • AWS
-
-</td>
-</tr>
-</table>
-
-</div>
+</details>
 
 <details>
 <summary><b>🤖 Agentic AI Document Processing</b></summary>
@@ -210,26 +205,12 @@ class ShusmitSarkar:
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-profile-trophy.vercel.app/?username=SHUSMIT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shusmit)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHUSMIT)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shusmit.sarkar@gmail.com)
 
 ### 💡 *"Building intelligent systems at the intersection of AI and real-world impact"*
 
