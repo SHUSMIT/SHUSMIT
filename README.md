@@ -36,7 +36,7 @@ class ShusmitSarkar:
     def get_achievements(self):
         return {
             "🥈 Inter IIT Tech Meet 2024-25": "2nd Place (ML & AI Track)",
-            "🏅 Amazon ML Challenge 2025": "Top 7% (Rank 989/7000+)",
+            "🏅 Amazon ML Challenge 2025": "Rank <500 (Top 7%)",
             "🎓 JBNSTS Scholar": "Rank 2/10,000+"
         }
 ```
@@ -49,6 +49,11 @@ class ShusmitSarkar:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHUSMIT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUSMIT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUSMIT&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -103,11 +108,18 @@ class ShusmitSarkar:
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="100%">
+
 ### 🏥 Multimodal Healthcare RAG System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SHUSMIT&repo=healthcare-rag&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/SHUSMIT)
 
 **🎯 Impact:** 62% hallucination reduction | <450ms inference | Real-time patient interaction  
 **🔧 Tech:** Python • Qdrant • React • TypeScript • Docker • AWS
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -156,9 +168,9 @@ class ShusmitSarkar:
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Amazon_ML_Challenge-2025-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
       <br><br>
-      <b>🏅 Top 7% Globally</b>
+      <b>🏅 Rank <500</b>
       <br>
-      Rank 989/7000+
+      Top 7% Globally
       <br><br>
       <sub>Multimodal Product Attribute Extraction</sub>
       <br>
