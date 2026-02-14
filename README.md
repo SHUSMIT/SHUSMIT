@@ -157,7 +157,7 @@ class ShusmitSarkar:
       <br><br>
       <sub>Multimodal Product Attribute Extraction</sub>
       <br>
-      <sub>SMAPE: 49.83</sub>
+      <sub>SMAPE: 42.83</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Inter_IIT_Tech_Meet-2024--25-0056D2?style=for-the-badge&logo=iit&logoColor=white" />
@@ -179,10 +179,10 @@ class ShusmitSarkar:
 
 <div align="center">
 
-| 🎓 Institution | 📖 Program | 📊 CGPA | 📅 Period |
+| 🎓 Institution | 📖 Program | 📅 Period |
 |:---|:---|:---:|:---:|
-| **IIT Kharagpur** | B.Tech Metallurgical & Materials Engineering | 8.11/10 | 2023-2027 |
-| **IIT Madras** | B.S. Data Science | 8.30/10 | 2023-2027 |
+| **IIT Kharagpur** | Engineering | 2023-2027 |
+| **IIT Madras** | Data Science | 2023-2027 |
 
 ### 🏅 Competitive Achievements
 ![JEE Advanced](https://img.shields.io/badge/JEE_Advanced-Top_2.57%25-success?style=for-the-badge)
