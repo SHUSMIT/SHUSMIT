@@ -180,9 +180,11 @@ class ShusmitSarkar:
 <div align="center">
 
 | 🎓 Institution | 📖 Program | 📅 Period |
-|:---|:---|:---:|:---:|
+|:---:|:---:|:---:|
 | **IIT Kharagpur** | Engineering | 2023-2027 |
 | **IIT Madras** | Data Science | 2023-2027 |
+
+</div>
 
 ### 🏅 Competitive Achievements
 ![JEE Advanced](https://img.shields.io/badge/JEE_Advanced-Top_2.57%25-success?style=for-the-badge)
