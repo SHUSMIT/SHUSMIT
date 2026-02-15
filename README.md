@@ -24,8 +24,8 @@ class ShusmitSarkar:
         self.username = "SHUSMIT"
         self.role = "AI Engineer & Data Scientist"
         self.education = {
-            "IIT Kharagpur": "B.Tech Metallurgical Engineering (CGPA: 8.11)",
-            "IIT Madras": "B.S. Data Science (CGPA: 8.30)"
+            "IIT Kharagpur": "B.Tech Engineering",
+            "IIT Madras": "B.S. Data Science"
         }
         self.current_focus = [
             "Agentic AI Workflows",
